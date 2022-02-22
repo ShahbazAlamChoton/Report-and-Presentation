@@ -1,6 +1,6 @@
 # Reports and Presentations
 BS, MS projects and accomplishments
 
-1. All files can be found in [google drive](https://drive.google.com/drive/folders/1b9gE_KastMA14wWuU7-ota9-O6WeIy8T?usp=sharing)
-2. Workshop slides can be found [here](https://www.slideshare.net/ShahbazAlam40/an-introduction-to-spss-174283736)
-3. BS project slides can be found [here](https://www.slideshare.net/ShahbazAlam40/a-comparative-study-of-histogram-equalization-based-image-enhancement-techniques)
+- All files can be found in [google drive](https://drive.google.com/drive/folders/1b9gE_KastMA14wWuU7-ota9-O6WeIy8T?usp=sharing)
+- Workshop slides can be found [here](https://www.slideshare.net/ShahbazAlam40/an-introduction-to-spss-174283736)
+- BS project slides can be found [here](https://www.slideshare.net/ShahbazAlam40/a-comparative-study-of-histogram-equalization-based-image-enhancement-techniques)
