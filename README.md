@@ -5,3 +5,6 @@ BS, MS projects and accomplishments
 - Workshop slides can be found [here](https://www.slideshare.net/ShahbazAlam40/an-introduction-to-spss-174283736)
 - HDSS scientific report [link](http://dspace.icddrb.org/jspui/handle/123456789/10391)
 - BS project slides can be found [here](https://www.slideshare.net/ShahbazAlam40/a-comparative-study-of-histogram-equalization-based-image-enhancement-techniques)
+ 
+ try:
+ <a href="http://dspace.icddrb.org/jspui/handle/123456789/10391" target="_blank">link</a>
